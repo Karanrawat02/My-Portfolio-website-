@@ -13,7 +13,7 @@ function Banner () {
                     <span className='tagline'>Welcome to my Portfolio</span>
                     <h1>{"Hi I'm Karan Rawat "}<span className='wrap'>Web Developer</span></h1>
                     <p>A passionate frontend developer focused on creating interactive, accessible, and responsive websites..</p>
-                    <a href="Karan_Rawat.pdf" download="Karan Rawat Resume.pdf" style={{"text-decoration":"none"}}>
+                    <a href="Karan_Rawat_Resume__.pdf" download="Karan_Rawat_Resume__.pdf" style={{"text-decoration":"none"}}>
                     <button > Download Resume  <ArrowRightCircle size={25}/></button>
                     </a>
                 </Col>
